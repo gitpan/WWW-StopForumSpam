@@ -4,9 +4,9 @@
       "Günter Grodotzki <guenter@perlhipster.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.96, CPAN::Meta::Converter version 2.120921",
    "license" : [
-      "unknown"
+      "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -42,5 +42,20 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "mailto" : "bugs@perlhipster.com",
+         "web" : "https://github.com/lifeofguenter/p5-stopforumspam/issues"
+      },
+      "homepage" : "http://www.perlhipster.com/p5-stopforumspam",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/lifeofguenter/p5-stopforumspam.git",
+         "web" : "https://github.com/lifeofguenter/p5-stopforumspam"
+      }
+   },
+   "version" : "0.02"
 }
